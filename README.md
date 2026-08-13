@@ -84,4 +84,4 @@
 
 ## License
 
-See LICENSE for the license applicable to this project.
+#### GNU General Public License v3.0
