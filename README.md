@@ -82,7 +82,7 @@
 
 ## Project Status
 
-* The VU meter circuit is based on the design published by Elliott Sound Products.
+* The VU meter circuit is based on the design published by [Elliott Sound Products](https://sound-au.com/project60.htm).
 
 * Lemon is an independent PCB implementation and stereo adaptation of the circuit, with a custom PCB layout, mechanical arrangement, and visual design.
 
