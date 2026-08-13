@@ -3,7 +3,7 @@
 </p>
 
 
-# Lemon 🍋
+# Lemon! 🍋
 
 ### Stereo 20-LED VU Meter
 
@@ -67,16 +67,16 @@
 * Components
 
 ### Quantity	Component
-* 2	LM3915N-1
-* 20	Rectangular LEDs
-* 2	50 kΩ potentiometers
-* 2	3.5 mm stereo TRS jacks
-* 2	82 Ω / 0.5 W resistors
-* 2	1.2 kΩ resistors
-* 2	2.2 kΩ resistors
-* 2	10 kΩ resistors
-* 2	10 Ω resistors
-* 4	100 nF capacitors
+* 2	x LM3915N-1
+* 20 x	Rectangular LEDs
+* 2	x 50 kΩ potentiometers
+* 2	x 3.5 mm stereo TRS jacks
+* 2	x 82 Ω / 0.5 W resistors
+* 2	x 1.2 kΩ resistors
+* 2 x	2.2 kΩ resistors
+* 2	x 10 kΩ resistors
+* 2	x 10 Ω resistors
+* 4	x 100 nF capacitors
 
 ### Component values and quantities should be verified against the final schematic and BOM before assembly.
 
