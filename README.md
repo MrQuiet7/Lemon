@@ -20,8 +20,7 @@
 * 20× rectangular LEDs
 * 10 levels per channel
 * Independent sensitivity adjustment for left and right channels
-* 3.5 mm stereo AUX input
-* 3.5 mm stereo AUX output
+* 3.5 mm stereo audio input/output
 * Adjustable DOT / BAR display mode
 * 15–25 V DC supply
 * Designed for integration into an audio amplifier
