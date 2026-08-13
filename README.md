@@ -49,7 +49,11 @@
 
 ## PCB
 
-### The PCB was designed in KiCad with a focus on:
+#### The PCB was designed in KiCad with a focus on:
+
+<p align="center">
+  <img src="assets/Lemon!.png" alt="‌banner" width="100%" />
+</p>
 
 * Clean stereo symmetry
 * Short and organized signal paths
