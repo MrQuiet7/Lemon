@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="assets/Banner.jpg" alt="‌Banner" width="100%" />
+</p>
+
+
 # Lemon 🍋
 
 ### Stereo 20-LED VU Meter
